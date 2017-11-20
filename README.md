@@ -15,7 +15,9 @@ Tracer creates log files using symmetric Tracer:: calls.
     Tracer::end("cool event I want to track")
 
 Tracer produces .trace files.  Load these files in Chrome by going to
-    chrome://tracing
+chrome://tracing, select load, and pointing to the trace file.
+
+![example view in chrome](docs/ss.png?raw=true "ExampleView")
 
 
 Warning!  Event strings have to match.
