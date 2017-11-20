@@ -21,7 +21,8 @@ Warning!  Event strings have to match.
 
 
 # Authors
-Tracer was jointly developed by Matthew O'Connell and Cameron Druyor.
+Tracer was jointly developed by Matthew O'Connell and Cameron Druyor
+as part of the Parfait toolkit.
 
 Comments / Questions:
 Matthew.D.OConnell@nasa.gov
