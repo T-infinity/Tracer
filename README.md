@@ -2,8 +2,9 @@ Tracer is a utility library that to create
 .json files for use in Chrome's tracer profiler.
 
 # Requirements:
-C++11 compatible compiler (language and stdlib)
-Cmake version 3.0.0 or higher
+C++11 compatible compiler (language and stdlib).
+
+Cmake is supported for version 3.0.0 or higher.
 
 # Basic Tutorial
 
