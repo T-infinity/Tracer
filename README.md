@@ -14,6 +14,10 @@ Tracer creates log files using symmetric Tracer:: calls.
     // do cool event
     Tracer::end("cool event I want to track")
 
+Tracer produces .trace files.  Load these files in Chrome by going to
+    chrome://tracing
+
+
 Warning!  Event strings have to match.
     
     Tracer::begin("These strings do     match?");
